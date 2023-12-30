@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Muthupandi! 👋</h1>
 
 <p align="center">
-  <em>🌱 Currently mastering Python | 🤔 Exploring the world of Web Development | 😄 Pronouns: Muthu | ⚡ Fun Fact: Committed with Computers</em>
+  <em>🌱 Currently mastering Django | 🤔 Exploring the world of Python | 😄 Pronouns: Muthu | ⚡ Fun Fact: Committed with Computers</em>
 </p>
 
 <h2 align="center">About Me</h2>

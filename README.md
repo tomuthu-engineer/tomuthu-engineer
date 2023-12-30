@@ -17,7 +17,7 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  📧 Email: <a href="mailto:tomuthu.engineer@gmail.com">tochandru.engineer@gmail.com</a><br>
+  📧 Email: <a href="mailto:tomuthu.engineer@gmail.com">tomuthu.engineer@gmail.com</a><br>
   📍 Location: Bangalore, India
 </p>
 

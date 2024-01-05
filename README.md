@@ -36,7 +36,7 @@
 <h2 align="center">Get in Touch</h2>
 
 <p align="center">
-  📫 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/tomuthu-engineer/">Chandru on LinkedIn</a>
+  📫 Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/tomuthu-engineer/">Muhtu on LinkedIn</a>
 </p>
 
 <p align="center">

@@ -24,7 +24,7 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  Python | PostgreSQL | Django | Html | Css | JavaScript
+  Python | PostgreSQL | Django | Html | Css | JavaScript | Git |
 </p>
 
 <h2 align="center">Portfolio</h2>

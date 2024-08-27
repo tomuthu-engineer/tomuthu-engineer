@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="title1.png" alt="Profile Header" style="width: 80%; border-radius: 10px;">
+[[<div align="center">
+  <img src="https://your-image-url.com/header.png" alt="Profile Header" style="width: 80%; border-radius: 10px;"/>
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://muthupandi.in/" target="_blank">Muthu</a>! 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://muthupandi.in/" target="_blank">Muthu</a>! 👋</h1>
 
 <p align="center">
-  <em>🎨 Crafting beautiful and responsive user interfaces | 💻 Frontend Developer with a knack for solving complex problems | ⚡ Passionate about delivering seamless user experiences</em>
+  <em>🎨 Crafting stunning user interfaces | 💻 Frontend Developer with a passion for innovation | ⚡ Transforming ideas into immersive digital experiences</em>
 </p>
 
 <div align="center">
@@ -19,52 +19,83 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
 </div>
 
+---
+
 ## 🎯 About Me
 
-I'm a **Frontend Developer** based in **Bangalore, India** with a passion for creating intuitive and dynamic user interfaces. My expertise lies in using modern web technologies to build responsive and visually appealing applications. I thrive on the challenge of bridging the gap between design and functionality, ensuring that each project not only looks good but also performs flawlessly.
-
-## 🌟 Skills & Expertise
-
-- **Frontend Technologies:**
-  - **React Native:** Building cross-platform mobile apps with a seamless user experience.
-  - **React:** Crafting modern web applications with dynamic UIs.
-  - **HTML5:** Structuring web content with clean, semantic markup.
-  - **CSS3:** Styling websites with precision, focusing on responsiveness and user-centric design.
-  - **JavaScript:** Adding interactivity and logic to web pages, enhancing user engagement.
-
-- **Programming Languages:**
-  - **Python:** Backend scripting and automation.
-  - **SQL:** Managing and querying databases efficiently.
-
-- **Version Control:**
-  - **Git:** Collaborative development with version control, ensuring code integrity across projects.
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muthupandi&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthupandi&theme=radical" alt="Muthu's GitHub Streak" />
+  <img src="https://your-gif-url.com/coding.gif" alt="Coding GIF" style="width: 60%; border-radius: 10px;"/>
 </div>
 
-## 🛠 Projects & Portfolio
+I'm a **Frontend Developer** based in **Bangalore, India**. My journey into the world of coding began with a fascination for technology and design. Over the years, I've honed my skills in **React** and **React Native**, where I specialize in creating responsive, user-friendly applications that deliver outstanding user experiences.
 
-- **Personal Portfolio:** [Muthu's Portfolio](https://muthupandi.in/)
-- **Featured Project:** [My React Native App](https://github.com/muthupandi/my-react-native-app)
-- **Open Source Contribution:** [Contributed to ABC Library](https://github.com/org/repo)
+I'm dedicated to transforming ideas into reality, focusing on clean, efficient code that brings designs to life. My goal is to push the boundaries of what's possible on the web and mobile platforms, creating engaging and intuitive user interfaces.
 
-> *Explore more of my work on my [GitHub profile](https://github.com/muthupandi).*
+---
+
+## 🛠 Skills & Expertise
+
+### **Frontend Development**
+
+- **React Native:** Crafting high-performance mobile apps with a native feel.
+- **React:** Building dynamic, component-based web applications.
+- **HTML5:** Writing clean, semantic markup to structure web content.
+- **CSS3:** Creating visually appealing and responsive designs.
+- **JavaScript:** Enhancing interactivity and functionality on the web.
+
+### **Programming Languages**
+
+- **Python:** For backend scripting, automation, and data manipulation.
+- **SQL:** Efficient database management and querying.
+
+### **Version Control & Tools**
+
+- **Git:** Keeping code versioned and collaborating seamlessly with teams.
+- **Webpack:** Optimizing and bundling frontend assets.
+- **NPM/Yarn:** Managing project dependencies efficiently.
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <img src="https://your-gif-url.com/projects.gif" alt="Projects GIF" style="width: 50%; border-radius: 10px;"/>
+</div>
+
+- **[My React Native App](https://github.com/muthupandi/my-react-native-app):** A fully responsive mobile app built with React Native, focusing on performance and user experience.
+- **[Portfolio Website](https://muthupandi.in/):** My personal portfolio showcasing my projects, skills, and experience.
+- **[Open Source Contributions](https://github.com/org/repo):** Actively contributing to open-source projects, helping to improve and maintain popular libraries.
+
+Explore more of my work on my [GitHub profile](https://github.com/muthupandi).
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muthupandi&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" style="width: 49%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthupandi&theme=radical" alt="Muthu's GitHub Streak" style="width: 49%;"/>
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=muthupandi&theme=react-dark" alt="Muthu's GitHub Activity Graph" style="width: 80%;"/>
+</div>
+
+---
 
 ## 📫 How to Reach Me
 
-I'm always excited to discuss new ideas, projects, and opportunities. Feel free to connect with me through:
+I'm always open to new opportunities, collaborations, and exciting conversations. Let's connect and create something amazing together!
 
 - **Email:** [tomuthu.engineer@gmail.com](mailto:tomuthu.engineer@gmail.com)
 - **LinkedIn:** [Muthu on LinkedIn](https://www.linkedin.com/in/chandru-gs/)
 - **Twitter:** [@Muthu_dev](https://twitter.com/Muthu_dev)
 
-## 🚀 Let's Collaborate
+---
 
-Let's create something amazing together! Whether it's building innovative web applications, contributing to open source, or exploring new technologies, I'm eager to connect and collaborate.
+## 🚀 Support My Work
+
+If you appreciate my work, consider supporting me by buying me a coffee. Your support helps me continue to create and share open-source projects and contribute to the community.
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/chan10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
@@ -73,5 +104,6 @@ Let's create something amazing together! Whether it's building innovative web ap
 ---
 
 <div align="center">
-  <em>Thanks for stopping by! Keep coding and let's push the web forward. 🚀</em>
+  <em>Thanks for visiting! Let's push the boundaries of what's possible together. 🚀</em>
 </div>
+](url)](url)

@@ -1,4 +1,4 @@
-[[<div align="center">
+<div align="center">
   <img src="https://your-image-url.com/header.png" alt="Profile Header" style="width: 80%; border-radius: 10px;"/>
 </div>
 
@@ -93,17 +93,6 @@ I'm always open to new opportunities, collaborations, and exciting conversations
 
 ---
 
-## 🚀 Support My Work
-
-If you appreciate my work, consider supporting me by buying me a coffee. Your support helps me continue to create and share open-source projects and contribute to the community.
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/chan10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
-</div>
-
----
-
 <div align="center">
   <em>Thanks for visiting! Let's push the boundaries of what's possible together. 🚀</em>
 </div>
-](url)](url)

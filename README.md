@@ -1,47 +1,77 @@
 <div align="center">
-  <img src="title1.png" alt="Profile Header" style="width: 100%; border-radius: 8px;">
+  <img src="title1.png" alt="Profile Header" style="width: 80%; border-radius: 10px;">
 </div>
 
-# Hi there, I'm Muthu! 👋
+<h1 align="center">Hi there, I'm <a href="https://muthupandi.in/" target="_blank">Muthu</a>! 👋</h1>
 
-*🌱 Currently mastering Django | 🤔 Exploring the world of DevOps | 😄 Nickname: Chandru | ⚡ Fun Fact: Committed with Computers*
+<p align="center">
+  <em>🎨 Crafting beautiful and responsive user interfaces | 💻 Frontend Developer with a knack for solving complex problems | ⚡ Passionate about delivering seamless user experiences</em>
+</p>
 
-## About Me
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+</div>
 
-**I'm a Python Developer** based in *Bangalore, India*. My coding journey is fueled by a [passion for technology](#). Currently, I'm delving into the intricacies of the Django Framework, mastering the art of web development. With a commitment to excellence, I find joy in collaborating with computers to turn ideas into reality through code.
+## 🎯 About Me
 
-## 🛠 Skills
+I'm a **Frontend Developer** based in **Bangalore, India** with a passion for creating intuitive and dynamic user interfaces. My expertise lies in using modern web technologies to build responsive and visually appealing applications. I thrive on the challenge of bridging the gap between design and functionality, ensuring that each project not only looks good but also performs flawlessly.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005C97?style=for-the-badge&logo=restapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🌟 Skills & Expertise
 
-## 📫 Contact
+- **Frontend Technologies:**
+  - **React Native:** Building cross-platform mobile apps with a seamless user experience.
+  - **React:** Crafting modern web applications with dynamic UIs.
+  - **HTML5:** Structuring web content with clean, semantic markup.
+  - **CSS3:** Styling websites with precision, focusing on responsiveness and user-centric design.
+  - **JavaScript:** Adding interactivity and logic to web pages, enhancing user engagement.
+
+- **Programming Languages:**
+  - **Python:** Backend scripting and automation.
+  - **SQL:** Managing and querying databases efficiently.
+
+- **Version Control:**
+  - **Git:** Collaborative development with version control, ensuring code integrity across projects.
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muthupandi&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthupandi&theme=radical" alt="Muthu's GitHub Streak" />
+</div>
+
+## 🛠 Projects & Portfolio
+
+- **Personal Portfolio:** [Muthu's Portfolio](https://muthupandi.in/)
+- **Featured Project:** [My React Native App](https://github.com/muthupandi/my-react-native-app)
+- **Open Source Contribution:** [Contributed to ABC Library](https://github.com/org/repo)
+
+> *Explore more of my work on my [GitHub profile](https://github.com/muthupandi).*
+
+## 📫 How to Reach Me
+
+I'm always excited to discuss new ideas, projects, and opportunities. Feel free to connect with me through:
 
 - **Email:** [tomuthu.engineer@gmail.com](mailto:tomuthu.engineer@gmail.com)
-- **Location:** Bangalore, India
+- **LinkedIn:** [Muthu on LinkedIn](https://www.linkedin.com/in/chandru-gs/)
+- **Twitter:** [@Muthu_dev](https://twitter.com/Muthu_dev)
 
-## Portfolio
+## 🚀 Let's Collaborate
 
-Check out my personal portfolio: [Muthu's Portfolio](https://muthupandi.in/)
+Let's create something amazing together! Whether it's building innovative web applications, contributing to open source, or exploring new technologies, I'm eager to connect and collaborate.
 
-## Get in Touch
-
-Connect with me on LinkedIn: [Muthu on LinkedIn](https://www.linkedin.com/in/chandru-gs/)
-
-Let's connect and embark on this exciting journey of knowledge and innovation together!
+<div align="center">
+  <a href="https://www.buymeacoffee.com/chan10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
+</div>
 
 ---
 
 <div align="center">
-  <em>Feel free to explore, and happy coding! 🚀</em>
-</div>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/chan10" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;"></a>
+  <em>Thanks for stopping by! Keep coding and let's push the web forward. 🚀</em>
 </div>

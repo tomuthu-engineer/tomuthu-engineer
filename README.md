@@ -70,16 +70,7 @@ Explore more of my work on my [GitHub profile](https://github.com/muthupandi).
 
 ---
 
-## 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muthupandi&show_icons=true&theme=radical" alt="Muthu's GitHub Stats" style="width: 49%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muthupandi&theme=radical" alt="Muthu's GitHub Streak" style="width: 49%;"/>
-</div>
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=muthupandi&theme=react-dark" alt="Muthu's GitHub Activity Graph" style="width: 80%;"/>
-</div>
 
 ---
 
@@ -88,7 +79,7 @@ Explore more of my work on my [GitHub profile](https://github.com/muthupandi).
 I'm always open to new opportunities, collaborations, and exciting conversations. Let's connect and create something amazing together!
 
 - **Email:** [tomuthu.engineer@gmail.com](mailto:tomuthu.engineer@gmail.com)
-- **LinkedIn:** [Muthu on LinkedIn](https://www.linkedin.com/in/chandru-gs/)
+- **LinkedIn:** [Muthu on LinkedIn](https://www.linkedin.com/in/changs/)
 - **Twitter:** [@Muthu_dev](https://twitter.com/Muthu_dev)
 
 ---

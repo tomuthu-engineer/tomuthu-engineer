@@ -2,7 +2,7 @@
   <img src="./muthupandi.png" alt="Profile Header" style="width: 80%; border-radius: 10px;"/>
 </div>
 
-<h1 align="center">Hello, I'm <a href="https://muthupandi.in/" target="_blank">Muthu</a>! 👋</h1>
+<h1 align="center">Hello, I'm <a href="https://muthupandi.in/" target="_blank">Muthupandi</a>! 👋</h1>
 
 <p align="center">
   <em>🎨 Crafting stunning user interfaces | 💻 Frontend Developer with a passion for innovation | ⚡ Transforming ideas into immersive digital experiences</em>
@@ -23,7 +23,6 @@
 
 - **Email:** [tomuthu.engineer@gmail.com](mailto:tomuthu.engineer@gmail.com)
 - **LinkedIn:** [Muthu on LinkedIn](https://www.linkedin.com/in/changs/)
-- **Twitter:** [@Muthu_dev](https://twitter.com/Muthu_dev)
 
 ---
 

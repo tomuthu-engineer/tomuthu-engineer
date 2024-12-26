@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./muthupandi.png" alt="Profile Header" style="width: 80%; border-radius: 10px;"/>
+  <img src="./muthupandi.png" alt="Profile Header" style="width: 100%; border-radius: 10px;"/>
 </div>
 
 <h1 align="center">Hello, I'm <a href="https://muthupandi.in/" target="_blank">Muthupandi</a>! 👋</h1>

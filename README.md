@@ -2,8 +2,6 @@
   <img src="./muthupandi.png" alt="Profile Header" style="width: 100%; border-radius: 10px;"/>
 </div>
 
-<h1 align="center">Hello, I'm <a href="https://muthupandi.in/" target="_blank">Muthupandi</a>! 👋</h1>
-
 <p align="center">
   <em>🎨 Crafting stunning user interfaces | 💻 Frontend Developer with a passion for innovation | ⚡ Transforming ideas into immersive digital experiences</em>
 </p>

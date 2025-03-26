@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./muthupandi.png" alt="Profile Header" style="width: 100%; border-radius: 10px;"/>
+<!--   <img src="./muthupandi.png" alt="Profile Header" style="width: 100%; border-radius: 10px;"/> -->
 </div>
 
 <p align="center">
